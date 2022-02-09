@@ -1,0 +1,10 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main() {
+    
+    printf("p1 is %f\n", 3.45678);
+    printf("p2 is %.8f\n", 3.4576);
+    
+    
+    return 0;
